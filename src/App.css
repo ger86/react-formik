@@ -20,3 +20,20 @@
 .App-link {
   color: #09d3ac;
 }
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  text-align: left;
+}
+
+label, input {
+  display: block;
+}
+
+.wrapper .half {
+  display: inline-block;
+  width: 40%;
+}
